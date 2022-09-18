@@ -1,0 +1,5 @@
+Saudações.
+Gabriel sua programação está precisa e correta. Mas a fim de que seu site seja totalmente funcional é necessário que você envie para o GitHub o arquivo do Banner.jpg
+Todos os arquivos que envolvem a sua programação tem que estar no repositório.
+Att.
+Professor Rodrigo Manika
